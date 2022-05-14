@@ -1,4 +1,4 @@
-# This is a qr generator using pyqrcode. I am hoping to make this into a useful program for my non-profit theatre company README.md
+# This is a qr generator using pyqrcode. I am hoping to make this into a useful program for my non-profit theatre company
 
 It currently exists as a simple cli to print a png of the qr code made from the user input
 
